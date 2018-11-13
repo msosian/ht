@@ -1,1 +1,1 @@
-<ssssss
+<? echo "this is testing of B"; ?>
